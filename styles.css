@@ -1,2 +1,29 @@
-
-/* Your CSS Code here. */
+*{
+	margin-left:0px
+}
+h1{
+	color:black;
+	background-color:yellow
+}
+nav{
+	margin-top:20px
+}
+summary{
+	margin-top:20px;
+	background-color:lightblue
+}
+#actor{
+	color:blue;
+	background-color:greenyellow;
+	margin-top:20px;
+}
+#quote{
+	color:red;
+	background-color:lightgray;
+	margin-top:20px;	
+}
+aside{
+	background-color:lightgoldenrodyellow;
+	display:inline-block;
+	margin:0px;
+}
